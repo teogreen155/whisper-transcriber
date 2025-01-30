@@ -1,0 +1,896 @@
+1
+00:00:00,000 --> 00:00:02,000
+You
+
+2
+00:00:31,000 --> 00:00:33,000
+You
+
+3
+00:00:55,000 --> 00:00:57,000
+Hello
+
+4
+00:01:01,000 --> 00:01:03,000
+You
+
+5
+00:01:15,000 --> 00:01:18,000
+Hello
+
+6
+00:01:30,000 --> 00:01:32,000
+Mateo, can you hear me?
+
+7
+00:01:32,000 --> 00:01:33,000
+Yes
+
+8
+00:01:33,000 --> 00:01:35,000
+How are you? How are you?
+
+9
+00:01:35,000 --> 00:01:37,000
+Good. Where are you calling from?
+
+10
+00:01:39,000 --> 00:01:42,000
+Sorry, what did you say? I'm here too well.
+
+11
+00:01:42,000 --> 00:01:44,000
+Where are you calling it from?
+
+12
+00:01:45,000 --> 00:01:47,000
+From where?
+
+13
+00:01:47,000 --> 00:01:49,000
+I'm from Venezuela.
+
+14
+00:01:49,000 --> 00:01:51,000
+Caracas, again.
+
+15
+00:01:51,000 --> 00:01:52,000
+Oh, nice.
+
+16
+00:01:52,000 --> 00:01:55,000
+Yeah, I'm from Latin American.
+
+17
+00:01:55,000 --> 00:01:57,000
+Beautiful.
+
+18
+00:01:58,000 --> 00:02:00,000
+Yeah, it is really beautiful.
+
+19
+00:02:00,000 --> 00:02:02,000
+You know, it's Latin America.
+
+20
+00:02:02,000 --> 00:02:04,000
+There's a lot of things going on.
+
+21
+00:02:04,000 --> 00:02:06,000
+Yeah, yeah.
+
+22
+00:02:06,000 --> 00:02:11,000
+I know Venezuela has a lot going on with the election president.
+
+23
+00:02:11,000 --> 00:02:15,000
+Yeah, yeah, man. It's really crazy.
+
+24
+00:02:15,000 --> 00:02:20,000
+But well, we tried the best, you know, first.
+
+25
+00:02:20,000 --> 00:02:23,000
+So
+
+26
+00:02:23,000 --> 00:02:28,000
+I read all about the job.
+
+27
+00:02:28,000 --> 00:02:30,000
+I had some question.
+
+28
+00:02:30,000 --> 00:02:35,000
+Is this a full-time job or something like a house time?
+
+29
+00:02:35,000 --> 00:02:37,000
+Yeah, this would be part time.
+
+30
+00:02:37,000 --> 00:02:42,000
+For time. So four four hours, something like that.
+
+31
+00:02:42,000 --> 00:02:45,000
+Depends each day is going to be different.
+
+32
+00:02:45,000 --> 00:02:47,000
+All right.
+
+33
+00:02:47,000 --> 00:02:51,000
+It also depends how fast you work.
+
+34
+00:02:51,000 --> 00:02:54,000
+Right now I'm doing all the tagging myself.
+
+35
+00:02:54,000 --> 00:02:59,000
+So I have a really good understanding on like how long it should take.
+
+36
+00:02:59,000 --> 00:03:04,000
+So we might do something like either hourly or like per entry.
+
+37
+00:03:04,000 --> 00:03:07,000
+But yeah, that's kind of how.
+
+38
+00:03:07,000 --> 00:03:11,000
+We're structuring the project.
+
+39
+00:03:11,000 --> 00:03:16,000
+Yeah, yeah, I already I suppose you do the marketing, right?
+
+40
+00:03:16,000 --> 00:03:18,000
+Yeah.
+
+41
+00:03:18,000 --> 00:03:21,000
+I do marketing too.
+
+42
+00:03:21,000 --> 00:03:26,000
+I already work in, you know, instantly I.
+
+43
+00:03:26,000 --> 00:03:29,000
+And yeah, it was just like me.
+
+44
+00:03:29,000 --> 00:03:32,000
+I was in the marketing and repetitive response.
+
+45
+00:03:32,000 --> 00:03:34,000
+But I know.
+
+46
+00:03:34,000 --> 00:03:41,000
+Sometimes there's a lot of work, you know, and you can do it yourself.
+
+47
+00:03:41,000 --> 00:03:45,000
+So yeah, I know I that's my number one rule being fast.
+
+48
+00:03:45,000 --> 00:03:48,000
+I think the fast you can respond to someone.
+
+49
+00:03:48,000 --> 00:03:55,000
+The better chance you get a sale or something like that, depending on the audience. Right.
+
+50
+00:03:55,000 --> 00:04:00,000
+Yeah, 100%.
+
+51
+00:04:00,000 --> 00:04:10,000
+Could you talk about a few of your prior projects with data entry automation.
+
+52
+00:04:10,000 --> 00:04:13,000
+Well, using a CRM.
+
+53
+00:04:13,000 --> 00:04:15,000
+Yeah, I'm a.
+
+54
+00:04:15,000 --> 00:04:19,000
+Well, let's talk about the data entry.
+
+55
+00:04:19,000 --> 00:04:25,000
+I was doing data entry and manually generation for a US company.
+
+56
+00:04:25,000 --> 00:04:31,000
+So I was, you know, looking for the prospects and linking putty.
+
+57
+00:04:31,000 --> 00:04:34,000
+In the Google ships and.
+
+58
+00:04:34,000 --> 00:04:38,000
+And check on the on the CRM.
+
+59
+00:04:38,000 --> 00:04:41,000
+I was using hotspot by the time.
+
+60
+00:04:41,000 --> 00:04:44,000
+And then I.
+
+61
+00:04:44,000 --> 00:04:53,000
+Well, with that data entry, I was getting a hundred leads a day in eight hours.
+
+62
+00:04:53,000 --> 00:04:59,000
+So I had to be fast, you know, yeah, a hundred leads daily.
+
+63
+00:04:59,000 --> 00:05:01,000
+It's a lot.
+
+64
+00:05:01,000 --> 00:05:03,000
+So.
+
+65
+00:05:03,000 --> 00:05:15,000
+I do some certifications from hotspot and on email marketing and how to handle their CRM.
+
+66
+00:05:15,000 --> 00:05:22,000
+Then I started working with a friend from Spain.
+
+67
+00:05:22,000 --> 00:05:32,000
+I was creating doing all the warfalls, tagging properties, everything on the hotspot CRM, you know.
+
+68
+00:05:32,000 --> 00:05:37,000
+And then you also responding to emails.
+
+69
+00:05:37,000 --> 00:05:39,000
+Yes, yes, I had to respond to emails.
+
+70
+00:05:39,000 --> 00:05:44,000
+Also, after that, I was doing.
+
+71
+00:05:44,000 --> 00:05:51,000
+This lead generation to this was we accompany in Dominican Republic.
+
+72
+00:05:51,000 --> 00:05:55,000
+I had to, you know, engage with people.
+
+73
+00:05:55,000 --> 00:06:03,000
+I had to, you know, try to, you know, to put this person on the sales pipeline.
+
+74
+00:06:03,000 --> 00:06:10,000
+And I had to chat to people on Instagram and respond on Instagram, Facebook.
+
+75
+00:06:10,000 --> 00:06:16,000
+I was managing all these social media platforms, you know, so.
+
+76
+00:06:16,000 --> 00:06:19,000
+I really, I really good.
+
+77
+00:06:19,000 --> 00:06:22,000
+We all these.
+
+78
+00:06:22,000 --> 00:06:26,000
+So.
+
+79
+00:06:26,000 --> 00:06:30,000
+It went pretty well after that.
+
+80
+00:06:30,000 --> 00:06:34,000
+My most recent job was we.
+
+81
+00:06:34,000 --> 00:06:36,000
+Another company in the NSA.
+
+82
+00:06:36,000 --> 00:06:41,000
+And I wasn't sure of the email marketing.
+
+83
+00:06:41,000 --> 00:06:45,000
+And as I say, I was doing all the marketing.
+
+84
+00:06:45,000 --> 00:06:51,000
+And then I was, you know, replying the positive prayer please engaging with the prospects.
+
+85
+00:06:51,000 --> 00:07:01,000
+Some of the negative I was you looking away to make them interested again, certain like that.
+
+86
+00:07:01,000 --> 00:07:09,000
+So yeah, I was responding on instantly that it's.
+
+87
+00:07:09,000 --> 00:07:13,000
+Really like.
+
+88
+00:07:13,000 --> 00:07:16,000
+This tool.
+
+89
+00:07:16,000 --> 00:07:18,000
+It's smartly.
+
+90
+00:07:18,000 --> 00:07:20,000
+So.
+
+91
+00:07:20,000 --> 00:07:29,000
+Then I was doing and sending these people in a form to sales force manually.
+
+92
+00:07:29,000 --> 00:07:32,000
+So I had to check.
+
+93
+00:07:32,000 --> 00:07:34,000
+Sorry, what did you say?
+
+94
+00:07:34,000 --> 00:07:37,000
+Have you used smartly before?
+
+95
+00:07:37,000 --> 00:07:40,000
+Yeah, one time with the.
+
+96
+00:07:40,000 --> 00:07:44,000
+With this company on Dominican Republic.
+
+97
+00:07:44,000 --> 00:07:49,000
+I was wondering where you are launching the campaign.
+
+98
+00:07:49,000 --> 00:07:54,000
+Yeah, yeah, I was watching the campaigns there and replying to the.
+
+99
+00:07:54,000 --> 00:07:57,000
+To these people from the campaigns.
+
+100
+00:07:57,000 --> 00:08:03,000
+I went nothing chair of the marketing, but I was doing their responses.
+
+101
+00:08:03,000 --> 00:08:08,000
+And then you put the entry into sales force from smart lead.
+
+102
+00:08:08,000 --> 00:08:13,000
+No, by the time I was moving from.
+
+103
+00:08:13,000 --> 00:08:16,000
+Not only to.
+
+104
+00:08:16,000 --> 00:08:19,000
+Yes, I was.
+
+105
+00:08:19,000 --> 00:08:24,000
+I was using by that time the hotspot CRM.
+
+106
+00:08:24,000 --> 00:08:26,000
+Okay.
+
+107
+00:08:26,000 --> 00:08:27,000
+It's very similar.
+
+108
+00:08:27,000 --> 00:08:34,000
+What we're doing is running campaigns on smart deed and then putting the data.
+
+109
+00:08:34,000 --> 00:08:41,000
+And the prices that we get from clients into a CRM on air table.
+
+110
+00:08:41,000 --> 00:08:44,000
+So you put it on the on the air table, right?
+
+111
+00:08:44,000 --> 00:08:45,000
+Yeah.
+
+112
+00:08:45,000 --> 00:08:47,000
+Have you used air table?
+
+113
+00:08:47,000 --> 00:08:48,000
+Yes, yes.
+
+114
+00:08:48,000 --> 00:08:57,000
+And I have not working a lot with it, but you know, I know about it.
+
+115
+00:08:57,000 --> 00:09:03,000
+Do you have any other background skills?
+
+116
+00:09:03,000 --> 00:09:04,000
+Sorry, what did you say?
+
+117
+00:09:04,000 --> 00:09:05,000
+I don't hear it well.
+
+118
+00:09:05,000 --> 00:09:10,000
+Like any other skills besides digital marketing.
+
+119
+00:09:10,000 --> 00:09:13,000
+What are like your secondary skills?
+
+120
+00:09:13,000 --> 00:09:18,000
+Well, I'm really touched, say, be let's say.
+
+121
+00:09:18,000 --> 00:09:22,000
+And I'm really proficient with.
+
+122
+00:09:22,000 --> 00:09:26,000
+We, you know, any problem that.
+
+123
+00:09:26,000 --> 00:09:31,000
+That probably happened is we are looking someone to find a solution.
+
+124
+00:09:31,000 --> 00:09:39,000
+I really the person will, you know, do a extensive research or anything else to.
+
+125
+00:09:39,000 --> 00:09:43,000
+To look it for a solution, right?
+
+126
+00:09:43,000 --> 00:09:47,000
+Let's say you have.
+
+127
+00:09:47,000 --> 00:09:53,000
+A Google listing and you don't know how to do it or.
+
+128
+00:09:53,000 --> 00:09:56,000
+You want to delete or want to create a new one.
+
+129
+00:09:56,000 --> 00:09:58,000
+You want a solution for that.
+
+130
+00:09:58,000 --> 00:10:02,000
+Or if you don't remember the password and you don't have the email.
+
+131
+00:10:02,000 --> 00:10:05,000
+I look for a solution for things like it.
+
+132
+00:10:05,000 --> 00:10:08,000
+I'm really proficient with chat GPD, so.
+
+133
+00:10:08,000 --> 00:10:10,000
+I use it a lot.
+
+134
+00:10:10,000 --> 00:10:13,000
+And yeah, because you know.
+
+135
+00:10:13,000 --> 00:10:17,000
+To give the barrier response, you have to.
+
+136
+00:10:17,000 --> 00:10:19,000
+To have some prompts and something like that.
+
+137
+00:10:19,000 --> 00:10:22,000
+Then you have idea and.
+
+138
+00:10:22,000 --> 00:10:29,000
+Give the best response to to the clients, right?
+
+139
+00:10:29,000 --> 00:10:32,000
+Yep.
+
+140
+00:10:32,000 --> 00:10:35,000
+Make sense.
+
+141
+00:10:35,000 --> 00:10:38,000
+Anything else you want to know?
+
+142
+00:10:38,000 --> 00:10:43,000
+Yeah, did you have any other questions?
+
+143
+00:10:43,000 --> 00:10:47,000
+Well, my, my, my question was at least, you know, there.
+
+144
+00:10:47,000 --> 00:10:51,000
+How many times was it work?
+
+145
+00:10:51,000 --> 00:10:54,000
+And yeah, it's sadly.
+
+146
+00:10:54,000 --> 00:10:55,000
+What was the role?
+
+147
+00:10:55,000 --> 00:10:58,000
+It's sadly about so.
+
+148
+00:10:58,000 --> 00:11:00,000
+Yeah, it's pretty clear that.
+
+149
+00:11:00,000 --> 00:11:06,000
+You know, I wrote to the campaigns artists from sales or.
+
+150
+00:11:06,000 --> 00:11:11,000
+Or use normal responses.
+
+151
+00:11:11,000 --> 00:11:13,000
+Was it said again?
+
+152
+00:11:13,000 --> 00:11:18,000
+Is it for, you know, a response for selling something?
+
+153
+00:11:18,000 --> 00:11:23,000
+Or is it just not my response from the.
+
+154
+00:11:23,000 --> 00:11:26,000
+You know, for the influencers?
+
+155
+00:11:26,000 --> 00:11:31,000
+So we're emailing the influencers, giving them a brand deal.
+
+156
+00:11:31,000 --> 00:11:35,000
+So say, hey.
+
+157
+00:11:35,000 --> 00:11:38,000
+Influencer number one, what is your.
+
+158
+00:11:38,000 --> 00:11:42,000
+Pricing for an Instagram post.
+
+159
+00:11:42,000 --> 00:11:49,000
+And then we want them to respond like, hey, my Instagram rate is $500 for a post.
+
+160
+00:11:49,000 --> 00:11:55,000
+And then you put his name and his price into air table.
+
+161
+00:11:55,000 --> 00:11:57,000
+All right.
+
+162
+00:11:57,000 --> 00:11:59,000
+Yeah.
+
+163
+00:11:59,000 --> 00:12:01,000
+So it's not super complicated.
+
+164
+00:12:01,000 --> 00:12:04,000
+The, there's a few edge cases where.
+
+165
+00:12:04,000 --> 00:12:07,000
+You're going to have to respond to the creator because they have some questions.
+
+166
+00:12:07,000 --> 00:12:10,000
+But then that's where you can use chat GPT.
+
+167
+00:12:10,000 --> 00:12:13,000
+Yeah, yeah.
+
+168
+00:12:13,000 --> 00:12:17,000
+That's what I mean when, when you had to do a specific, you know,
+
+169
+00:12:17,000 --> 00:12:21,000
+replies when people ask something different, a question.
+
+170
+00:12:21,000 --> 00:12:28,000
+When they answer question, it's going to be the role of this.
+
+171
+00:12:28,000 --> 00:12:31,000
+Like their responsibility to.
+
+172
+00:12:31,000 --> 00:12:37,000
+Look at our campaign brief and the brief has the answers to all the questions a creator might ask.
+
+173
+00:12:37,000 --> 00:12:42,000
+And then you basically just respond.
+
+174
+00:12:42,000 --> 00:12:50,000
+And then the tagging the tagging portion is labeling whether the creator was interested, not interested.
+
+175
+00:12:50,000 --> 00:12:55,000
+And then if they were interested and they gave the pricing, then you can.
+
+176
+00:12:55,000 --> 00:13:01,000
+Select another tag that basically says like, okay, it was added to air table.
+
+177
+00:13:01,000 --> 00:13:04,000
+And then sometimes the.
+
+178
+00:13:04,000 --> 00:13:07,000
+The creator has like a location in a niche.
+
+179
+00:13:07,000 --> 00:13:14,000
+And then there's like a couple things just to add to the CRM like about that person.
+
+180
+00:13:14,000 --> 00:13:16,000
+All right, I got it.
+
+181
+00:13:16,000 --> 00:13:18,000
+Yeah, it looks really simple.
+
+182
+00:13:18,000 --> 00:13:22,000
+It's something that I have really doing in the past.
+
+183
+00:13:22,000 --> 00:13:27,000
+Well, that was my last job on the email marketing.
+
+184
+00:13:27,000 --> 00:13:29,000
+Awesome.
+
+185
+00:13:29,000 --> 00:13:32,000
+So I have about six more interviews.
+
+186
+00:13:32,000 --> 00:13:42,000
+It looks like almost all of them are charging ten dollars or below.
+
+187
+00:13:42,000 --> 00:13:47,000
+So I'm curious if you're pricing is firm at 20.
+
+188
+00:13:47,000 --> 00:13:50,000
+Or if it's flexible.
+
+189
+00:13:50,000 --> 00:13:52,000
+All right, what do you say at the last?
+
+190
+00:13:52,000 --> 00:13:54,000
+I don't hear it pretty well.
+
+191
+00:13:54,000 --> 00:13:58,000
+I was asking me if your rate is flexible.
+
+192
+00:13:58,000 --> 00:14:01,000
+If the rate is is flexible.
+
+193
+00:14:01,000 --> 00:14:04,000
+Yeah.
+
+194
+00:14:04,000 --> 00:14:07,000
+Well, let's look.
+
+195
+00:14:07,000 --> 00:14:10,000
+It was just then, right?
+
+196
+00:14:10,000 --> 00:14:12,000
+Are you funny?
+
+197
+00:14:12,000 --> 00:14:15,000
+But a lot of the other people that applied put 10.
+
+198
+00:14:15,000 --> 00:14:17,000
+So I just wanted to be transparent.
+
+199
+00:14:17,000 --> 00:14:22,000
+Because we'll probably go with someone closer to 10.
+
+200
+00:14:22,000 --> 00:14:24,000
+Yeah, yeah, it is possible to 10.
+
+201
+00:14:24,000 --> 00:14:27,000
+I do me proposal for 10.
+
+202
+00:14:27,000 --> 00:14:28,000
+Okay.
+
+203
+00:14:28,000 --> 00:14:32,000
+Yeah, no, there's no problem with that.
+
+204
+00:14:32,000 --> 00:14:35,000
+Okay, great.
+
+205
+00:14:35,000 --> 00:14:36,000
+Awesome.
+
+206
+00:14:36,000 --> 00:14:39,000
+And you prefer a viewer.
+
+207
+00:14:39,000 --> 00:14:40,000
+Yes.
+
+208
+00:14:40,000 --> 00:14:41,000
+Okay.
+
+209
+00:14:41,000 --> 00:14:42,000
+Cool.
+
+210
+00:14:42,000 --> 00:14:46,000
+Nice to meet you, Aver.
+
+211
+00:14:46,000 --> 00:14:50,000
+Nice to meet you, Matt.
+
+212
+00:14:50,000 --> 00:14:51,000
+So we see in the chat.
+
+213
+00:14:51,000 --> 00:14:55,000
+I think I guess you had some more interviews, right?
+
+214
+00:14:55,000 --> 00:14:56,000
+Yeah, some more interviews.
+
+215
+00:14:56,000 --> 00:14:58,000
+And I'm going to talk to my team.
+
+216
+00:14:58,000 --> 00:15:03,000
+And I'll message you when I have more information.
+
+217
+00:15:03,000 --> 00:15:04,000
+All right.
+
+218
+00:15:04,000 --> 00:15:06,000
+Well, nice to meet you, Matt.
+
+219
+00:15:07,000 --> 00:15:09,000
+Hope you like what I do.
+
+220
+00:15:09,000 --> 00:15:12,000
+And we'll talk there.
+
+221
+00:15:12,000 --> 00:15:14,000
+Aver.
+
+222
+00:15:14,000 --> 00:15:15,000
+Adios.
+
+223
+00:15:15,000 --> 00:15:16,000
+Awesome.
+
+224
+00:15:16,000 --> 00:15:18,000
+Have a nice night.
+
