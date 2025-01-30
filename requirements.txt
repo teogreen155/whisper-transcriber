@@ -1,6 +1,10 @@
+streamlit
+whisperx
+torch
+torchaudio
+transformers
 numba
 numpy
-torch
 tqdm
 more-itertools
 tiktoken
