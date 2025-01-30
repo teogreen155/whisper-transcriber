@@ -1,0 +1,31 @@
+# Ignore Python virtual environments
+whisper-env/
+venv/
+.venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore test & cache files
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Ignore macOS & system files
+.DS_Store
+thumbs.db
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore large model and cache files
+*.bin
+*.pt
+*.onnx
+*.tar.gz
+models/
+cache/
+
