@@ -49,7 +49,15 @@ if uploaded_file is not None:
 
         # Run WhisperX command (using relative path)
         output_dir = tempfile.mkdtemp()
-        command = ["whisperx", temp_audio_path, "--model", "medium", "--diarize", "--output_format", "txt", "--output_dir", output_dir]
+        command = [
+            "whisperx", 
+            temp_audio_path, 
+            "--model", "medium", 
+            "--diarize", 
+            "--output_format", "txt", 
+            "--output_dir", output_dir,
+            "--compute_type", "float32"  # ✅ Fix for Streamlit Cloud
+        ]
 
         process = subprocess.run(command, capture_output=True, text=True)
 
