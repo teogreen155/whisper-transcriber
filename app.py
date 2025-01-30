@@ -26,6 +26,7 @@ def check_dependencies():
 
 # Streamlit UI
 st.title("📝 WhisperX Transcriber")
+st.markdown("**A [byob.ai](https://byob.ai/) project**", unsafe_allow_html=True)
 st.write("Upload an audio file to transcribe using WhisperX.")
 
 # Check dependencies before proceeding
@@ -73,3 +74,4 @@ if uploaded_file is not None:
                 st.error("❌ Transcription complete, but output file not found.")
         else:
             st.error(f"❌ Error in transcription:\n{process.stderr}")
+
